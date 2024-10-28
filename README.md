@@ -80,31 +80,31 @@ Python 3.8+
 Clone the repository:
 
 bash
-Copy code
+
 git clone https://github.com/yourusername/traffic-flow-optimization.git
 cd traffic-flow-optimization
 Installation
 Create a virtual environment:
 
 bash
-Copy code
+
 python3 -m venv venv
 source venv/bin/activate  # For Windows use venv\Scripts\activate
 Install required packages:
 
 bash
-Copy code
+
 pip install -r requirements.txt
 Usage
 Data Preprocessing:
 
 bash
-Copy code
+
 python src/data_preprocessing.py
 Run Model Training (for signal optimization):
 
 bash
-Copy code
+
 python src/signal_optimization.py
 👤 About the Author
 With a background in civil engineering and data science, I specialize in applying data analytics and machine learning to real-world challenges. This project reflects my dedication to improving urban infrastructure through smart, data-driven solutions.
@@ -114,7 +114,7 @@ For inquiries or collaboration, please contact me on LinkedIn or via email@examp
 Thank you for reviewing this project! I look forward to discussing how my skills can add value to your team.
 
 markdown
-Copy code
+
 
 ---
 
