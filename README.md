@@ -48,7 +48,7 @@ traffic-flow-optimization/
 │   └── automation_tests.ipynb # Tests for model and data pipeline validation
 ├── README.md                 # Project overview, instructions, and setup
 └── requirements.txt          # List of project dependencies
-
+```
 📊 Key Components
 1. Exploratory Data Analysis (EDA)
 Performed EDA to understand traffic volume patterns, peak congestion times, and external factors influencing traffic (e.g., weather conditions). Key insights are documented in notebooks/EDA.ipynb.
