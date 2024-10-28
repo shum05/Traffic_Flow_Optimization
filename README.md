@@ -78,30 +78,37 @@ Prerequisites
 Python 3.8+
 
 Clone the repository:
-
+```
 bash
 
-git clone https://github.com/yourusername/traffic-flow-optimization.git
+git clone https://github.com/shum05/Traffic_Flow_Optimization.git
 cd traffic-flow-optimization
-Installation
-Create a virtual environment:
+```
+## Installation
+### Create a virtual environment:
+```
 
 bash
 
 python3 -m venv venv
-source venv/bin/activate  # For Windows use venv\Scripts\activate
-Install required packages:
-
+source venv/bin/activate 
+# For Windows use venv\Scripts\activate
+``` 
+## Install required packages:
+```
 bash
 
 pip install -r requirements.txt
-Usage
-Data Preprocessing:
-
+```
+## Usage
+### Data Preprocessing:
+```
 bash
 
 python src/data_preprocessing.py
-Run Model Training (for signal optimization):
+```
+
+### Run Model Training (for signal optimization):
 
 bash
 
