@@ -1,0 +1,14 @@
+# Configuration parameters
+# config/config.yaml
+
+data:
+  raw_data_path: "data/raw/traffic_data.csv"
+  processed_data_path: "data/processed/traffic_processed.csv"
+
+model:
+  signal_optimization_algorithm: "genetic_algorithm"
+  route_adjustment_model: "random_forest"
+  train_test_split: 0.8
+
+log:
+  log_file: "logs/traffic_flow.log"
