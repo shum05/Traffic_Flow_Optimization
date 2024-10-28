@@ -114,7 +114,7 @@ python
 
 python src/signal_optimization.py
 ```
-👤 About the Author
+## 👤 About the Author
 I am a Data Scientist with a strong foundation in Civil Engineering and a Master's degree in Applied Mathematics. My diverse background equips me with a unique skill set that combines engineering principles with advanced data analysis techniques.
 
 Throughout my career, I have been actively involved in various applied and fundamental research projects, focusing on optimizing urban infrastructure and enhancing traffic management systems. My expertise in machine learning, statistical modeling, and data visualization allows me to translate complex datasets into actionable insights, driving effective decision-making in smart city initiatives.
@@ -126,16 +126,3 @@ I welcome collaboration and connections with fellow professionals in the field. 
 For inquiries or collaboration, please contact me on LinkedIn or via tshumetie5@gmail.com.
 
 Thank you for reviewing this project! I look forward to discussing how my skills can add value to your team.
-
-
----
-
-### Explanation of Key Sections:
-
-- **Project Overview**: Sets the scene, emphasizing the project’s societal impact and your expertise.
-- **Tech Stack**: Clearly outlines the tools and libraries used, showing technical depth.
-- **Folder Structure**: Demonstrates organization skills.
-- **Components**: Gives a breakdown of each major part of the project, with references to relevant code files.
-- **Results**: Showcases outcomes to highlight the impact of your work.
-- **Installation and Usage**: Provides step-by-step setup instructions for recruiters or collaborators.
-- **About the Author**: Personalizes the README, showing your unique skillset and experience.
